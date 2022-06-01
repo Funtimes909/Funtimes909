@@ -42,4 +42,18 @@ These are just a few ideas, New ideas are appreciated!
 
 
 Yes, I sometimes play Minecraft with a hacked client (Meteor Client), Mostly because of my hatred of pay to win minecraft servers and what they are doing to the community.
+
 Meteor Client has a built in addons manager that allows you to create your own addons, I do not want to go to into detail about my ideas for it here as there is a complete list of my current ideas which can be found [here](https://github.com/Funtimes909/Meteor-Plus/blob/main/Ideas.txt)
+
+
+### Simple Tents
+
+
+A very simple mod that will add naturally generating campsites to your minecraft world
+
+
+## Contacts
+
+You can find me on:
+Discord - **Funtimes909#6969**
+Reddit - **https://www.reddit.com/user/Funtimes909**
