@@ -34,7 +34,7 @@ I will be working with a friend of mine on a custom minecraft launcher desgined 
 - A way to prevent players from applying their skin on the top layer meaning they will show up as a black square in the tab-list
 - And a lot of smaller bugs that really annoy me about the vanilla launcher such as resizing the main window everytime the game crashes 
 - Much better account system that includes and displays information such as the last time you logged into that account, name history and more
-- Optionally a built in [namemc](namemc.com) browser
+- Optionally a built in [namemc](https://namemc.com) browser
 
 These are just a few ideas, New ideas are appreciated!
 
