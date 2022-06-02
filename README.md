@@ -4,6 +4,7 @@
 I am Amy (Pronouns: **She/Her/They**)
 I am a **beginner java developer**
 I mostly do **Minecraft Mods**
+I would like to learn **Rust**, **Python** and **C** in the future
 
 
 ### My Goals
@@ -32,9 +33,9 @@ I will be working with a friend of mine on a custom minecraft launcher desgined 
 - Modpack browser 
 - A way to prevent people from applying an Alex model skin to the Steve model
 - A way to prevent players from applying their skin on the top layer meaning they will show up as a black square in the tab-list
-- And a lot of smaller bugs that really annoy me about the vanilla launcher such as resizing the main window everytime the game crashes 
 - Much better account system that includes and displays information such as the last time you logged into that account, name history and more
 - Optionally a built in [namemc](https://namemc.com) browser
+- And a lot of smaller bugs that really annoy me about the vanilla launcher such as resizing the main window everytime the game crashes 
 
 These are just a few ideas, New ideas are appreciated!
 
