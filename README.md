@@ -62,6 +62,6 @@ You can find me on:
 
 ## You should also know
 
-- I am 15 years old, so please do not contact me about jobs
+- I am currently 15 years old, so please do not contact me about jobs
 - My current abilities are practically nothing so asking for me to make you a minecraft mod probably wont get you anywhere as I will most likely procrastinate until I forget about it
 
