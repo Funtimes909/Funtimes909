@@ -56,12 +56,12 @@ A very simple mod that will add naturally generating campsites to your minecraft
 ## Contacts
 
 You can find me on:
-Discord - **Funtimes909#6969**
-Reddit - **https://www.reddit.com/user/Funtimes909**
+- Discord - **Funtimes909#6969**
+- Reddit - **https://www.reddit.com/user/Funtimes909**
 
 
 ## You should also know
 
-I am 15 years old, so please do not contact me about jobs
-My current abilities are practically nothing so asking for me to make you a minecraft mod probably wont get you anywhere as I will most likely procrastinate until I forget about it
+- I am 15 years old, so please do not contact me about jobs
+- My current abilities are practically nothing so asking for me to make you a minecraft mod probably wont get you anywhere as I will most likely procrastinate until I forget about it
 
