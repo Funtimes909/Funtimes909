@@ -41,13 +41,6 @@ I will be working with a friend of mine on a custom minecraft launcher desgined 
 
 These are just a few ideas, New ideas are appreciated!
 
-### Meteor Plus
-
-
-Yes, I sometimes play Minecraft with a hacked client (Meteor Client), Mostly because of my hatred of pay to win minecraft servers and what they are doing to the community.
-
-Meteor Client has a built in addons manager that allows you to create your own addons, I do not want to go to into detail about my ideas for it here as there is a complete list of my current ideas which can be found [here](https://github.com/Funtimes909/Meteor-Plus/blob/main/Ideas.txt)
-
 ### Contributions To The Linux Kernel
 
 Most of my time programming in rust will probably be to the [linux kernel](https://github.com/torvalds/linux) as thats my choice of OS and rust is starting to actually get some support in the kernel.
