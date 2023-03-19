@@ -3,7 +3,7 @@
 
 I am Amy (Pronouns: **She/Her**)
 I am a **beginner java and rust developer**
-My operating system is **Debian with KDE Plasma**
+I use **Arch BTW (KDE Plasma)**
 I mostly do **Minecraft Mods**
 I would like to learn **Rust**, **Python** and **C** in the future
 
