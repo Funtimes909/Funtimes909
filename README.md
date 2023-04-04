@@ -54,8 +54,10 @@ A good starting place for this would probably be making a fork of [this github r
 ## Contacts
 
 You can find me on:
-- Discord - **Funtimes909#6969**
+- Discord - **Funtimes909#6969** (Prefered)
 - Reddit - **https://www.reddit.com/user/Funtimes909**
+- Mastodon - **https://wetdry.world/@Funtimes909**
+- Twitter - (Its linked as a social on my profile)
 
 
 ## You should also know
