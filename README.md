@@ -20,9 +20,9 @@ A good starting place for this would probably be making a fork of [this github r
 
 You can find me on:
 - [Matrix](https://matrix.to/#/@funtimes909:matrix.funtimes909.xyz)
-- [Discord](**https://discord.com/users/652755888230236160**)
-- [Mastodon](**https://wetdry.world/@Funtimes909**)
-- [Website](**https://funtimes909.xyz**)
+- [Discord](https://discord.com/users/652755888230236160)
+- [Mastodon](https://wetdry.world/@Funtimes909)
+- [Website](https://funtimes909.xyz)
 
 # You should also know
 
