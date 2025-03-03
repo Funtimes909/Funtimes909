@@ -13,7 +13,7 @@ I'm currently working on a rewrite of the original ServerSeeker! A minecraft too
 # Contacts
 
 You can find me on:
-- [Matrix](https://matrix.to/#/@funtimes909:matrix.funtimes909.xyz) (Preffered)
-- [Discord](https://discord.com/users/652755888230236160) (Slowly phasing out)
-- [Mastodon](https://wetdry.world/@Funtimes909) (Unused much)
+- [Matrix](https://matrix.to/#/@funtimes909:matrix.funtimes909.xyz)
+- [Forgejo](https://git.funtimes909.xyz/Funtimes909)
+- [Mastodon](https://wetdry.world/@Funtimes909) (Not really used much)
 - [Website](https://funtimes909.xyz)
